@@ -12,7 +12,6 @@
   - Engaged in the Goyang-City Business Funding Project.
 
 📖 **[Deep Learning Bible](https://wikidocs.net/book/7888)**
-- **Role**: Author
 - **Specialization**: Reinforcement Learning
 - **Overview**: The "Deep Learning Bible" is a comprehensive guide that delves deep into the intricacies of reinforcement learning. It provides readers with both theoretical knowledge and practical applications, bridging the gap between academia and industry.
 - **Highlights**:
