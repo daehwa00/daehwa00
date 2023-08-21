@@ -1,8 +1,4 @@
-### Hello, World! 👋 I'm daehwa00
-
----
-
-## 🌟 **Professional Experience**
+## 🌟 **Experience**
 
 🏢 **BRAVE (2023.04 ~ Present)**
 - **Position**: Representative
