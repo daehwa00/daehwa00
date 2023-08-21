@@ -4,7 +4,7 @@
 - **Position**: Representative
 - **Achievements**:
   - Spearheaded the creation of a domestic violence prevention app in collaboration with Ilsan East Police Station.
-  - Innovated an AI system for (domestic violence voice detection)[https://github.com/daehwa00/VoiceKey].
+  - Innovated an AI system for domestic violence voice detection.
   - Engaged in the Goyang-City Business Funding Project.
 
 📖 **[Deep Learning Bible](https://wikidocs.net/book/7888)**
@@ -55,8 +55,11 @@
 
 ## 🎓 **Education**
 
+**Seoul Daesung High School (Graduated in 2019.02)**
+
 **Korea Aerospace University (2020.03 ~ 2024.02 - Expected Graduation)**
-- **Major**: Double major in Software and Mechanical Engineering
+  - 💻 Department of Software & 🛠 Mechanical Engineering (Double Major)
+
 
 ---
 
