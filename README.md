@@ -15,14 +15,6 @@
   - Hands-on examples and code snippets to help readers implement learned concepts.
   - Collaborative efforts with leading experts in the field to ensure accuracy and relevance.
 
-🎓 **Capstone Design (2022.08 ~ 2022.12)**
-- **Collaboration**: Company "Ratio"
-- **Project**: Development of vision AI for autonomous driving.
-
-💼 **Cooperation Project (2023.03 ~ 2022.06)**
-- **Project**: Web development with integrated counseling AI.
-- **Achievement**: Secured the 2nd place.
-
 🔬 **QAI (Quantum Artificial Intelligence) Lab (2021.12 ~ Present)**
 - **Position**: Researcher
 
@@ -34,7 +26,14 @@
   - Researcher in the collaborative ML project between Korea Air & Airbus.
   - Dedicated to enhancing flight robustness through advanced AI algorithms.
   - Pioneered vulnerability research using Explainable AI, providing insights into potential weaknesses and areas for improvement in aviation AI systems.
+  
+🎓 **Capstone Design (2022.08 ~ 2022.12)**
+- **Collaboration**: Company "Ratio"
+- **Project**: Development of vision AI for autonomous driving.
 
+💼 **Cooperation Project (2023.03 ~ 2022.06)**
+- **Project**: Web development with integrated counseling AI.
+- **Achievement**: Secured the 2nd place.
 
 🏆 **KAU Hackathon**
 - **Achievements**: 
