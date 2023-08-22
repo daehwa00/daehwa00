@@ -33,7 +33,7 @@
 
 💼 **Cooperation Project (2023.03 ~ 2022.06)**
 - **Project**: Web development with integrated counseling AI.
-- **Achievement**: Secured the 2nd place.
+- **Achievement**: Won the 2nd place.
 
 ---
 
@@ -42,7 +42,7 @@
 - 🥉 **KAU Hackathon** - 3rd place (2022)
 - 🏅 **AI Industry-Academia Collaboration Project** - Dean's Award (2022.6)
 - 🏅 **AI R&D Project** - Excellence Award (2022.12)
-- 🥇 **KAU Hackathon** - 1st place (2023)
+- 🥇 **KAU Hackathon** - 1st place (2023.5)
 - 🏅 **ICT Startup Makeathon** - Best Award (2023.6)
 - 🏅 **SW-Centered University Joint Hackathon** - Special Award (2023.6)
 ---
@@ -71,5 +71,3 @@
 - 📧 [daehwa001210@gmail.com](mailto:daehwa001210@gmail.com)
 
 ---
-
-"수상 경력" 섹션을 영어로 번역하여 수정하였습니다. 확인하시고 필요한 수정 사항이 있으면 알려주세요!
