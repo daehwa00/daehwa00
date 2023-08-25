@@ -66,6 +66,13 @@
 
 ---
 
+## 🎮 **Gaming Life**
+League of Legends:
+
+Summoner Name: AIRLER
+Rank: Emerald
+Current Status: Taking a break due to a heartbreaking losing streak. Sometimes, even champions need a breather! 🛌💤
+
 ## 📫 **Get in Touch**
 
 - 📧 [daehwa001210@gmail.com](mailto:daehwa001210@gmail.com)
