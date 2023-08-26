@@ -3,7 +3,7 @@
 🏢 **BRAVE (2023.04 ~ Present)**
 - **Position**: Representative
 - **Achievements**:
-  - Spearheaded the creation of a domestic violence prevention app in collaboration with Ilsan East Police Station.
+  - Spearheaded the creation of a domestic violence prevention app(non-profit app) in collaboration with Ilsan East Police Station.
   - Innovated an AI system for domestic violence voice detection.
   - Engaged in the Goyang-City Business Funding Project.
 
