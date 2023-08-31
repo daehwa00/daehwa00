@@ -4,7 +4,7 @@
 - **Position**: Representative
 - **Achievements**:
   - Spearheaded the creation of a domestic violence prevention app(non-profit app) in collaboration with Ilsan East Police Station.
-  - Innovated an AI system for domestic violence voice detection.
+  - Innovated an AI system for domestic violence speaker verification.
   - Engaged in the Goyang-City Business Funding Project.
 
 📖 **[Deep Learning Bible](https://wikidocs.net/book/7888)**
