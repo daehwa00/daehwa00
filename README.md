@@ -11,7 +11,7 @@
 - **Specialization**: Reinforcement Learning
 - **Overview**: The "Deep Learning Bible" is a comprehensive guide that delves deep into the intricacies of reinforcement learning. It provides readers with both theoretical knowledge and practical applications, bridging the gap between academia and industry.
 - **Highlights**:
-  - Detailed explanations of fundamental reinforcement learning algorithms.
+  - Detailed explanations of fundamental Deep Reinforcement Learning algorithms.
   - Hands-on examples and code snippets to help readers implement learned concepts.
   - Collaborative efforts with leading experts in the field to ensure accuracy and relevance.
 
