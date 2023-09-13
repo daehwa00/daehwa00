@@ -7,6 +7,7 @@
   - Spearheaded the creation of a domestic violence prevention app in collaboration with Ilsan East Police Station.
   - Innovated an AI system for domestic violence speaker verification.
   - Engaged in the Goyang-City Business Funding Project.
+  - Published "VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices" at The 4th Korea Artificial Intelligence Conference.
 
 📖 **[Deep Learning Bible](https://wikidocs.net/book/7888)**
 - **Specialization**: Reinforcement Learning
