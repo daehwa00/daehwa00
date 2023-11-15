@@ -49,6 +49,15 @@
 - 🏅 **SW-Centered University Joint Hackathon** - Special Award (2023.6)
 ---
 
+## 🎥 **YouTube Channel**
+[Daehwa's AI & Linear Algebra Deep Dive](https://www.youtube.com/channel/UCyajG8EDAbtXdgvWQwurVqw) 📺
+
+**Specialization**: Deep Learning and Advanced Linear Algebra
+**Overview**: My channel focuses on delivering in-depth lectures on deep learning and advanced linear algebra, aiming to provide viewers with a comprehensive understanding of these critical topics in AI and mathematics. 🧠
+**Highlights**:
+Detailed tutorials on various deep learning techniques and concepts. 📚
+Advanced lessons on linear algebra, essential for understanding and implementing AI algorithms. 🔢
+
 ## 🛠 **Technical Proficiency**
 
 **Artificial Intelligence**: 
