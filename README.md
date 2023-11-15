@@ -47,6 +47,7 @@
 - 🥇 **KAU Hackathon** - 1st place (2023.5)
 - 🏅 **ICT Startup Makeathon** - Best Award (2023.6)
 - 🏅 **SW-Centered University Joint Hackathon** - Special Award (2023.6)
+
 ---
 
 ## 🎥 **YouTube Channel**
@@ -57,6 +58,8 @@
 **Highlights**:
 Detailed tutorials on various deep learning techniques and concepts. 📚
 Advanced lessons on linear algebra, essential for understanding and implementing AI algorithms. 🔢
+
+---
 
 ## 🛠 **Technical Proficiency**
 
@@ -79,8 +82,6 @@ Advanced lessons on linear algebra, essential for understanding and implementing
 
 ## 🎮 **Gaming Life**
 **League of Legends:**
-
-Summoner Name: AIRLER
 
 Rank: Emerald
 
