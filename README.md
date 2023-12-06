@@ -83,9 +83,8 @@
 ## 🎮 **Gaming Life**
 **League of Legends:**
 
-Rank: Emerald
+Rank: Diamond 💎(Top 3.2%)
 
-Current Status: Taking a break due to a heartbreaking losing streak. Sometimes, even champions need a breather! 🛌💤
 
 ## 📫 **Get in Touch**
 
