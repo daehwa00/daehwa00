@@ -83,7 +83,7 @@
 ## 🎮 **Gaming Life**
 **League of Legends:**
 
-Rank: Diamond 💎(Top 3.2%)
+Rank: Diamond 💎
 
 
 ## 📫 **Get in Touch**
