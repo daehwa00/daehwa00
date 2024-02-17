@@ -1,6 +1,6 @@
 ## 🌟 **Experience**
 
-🏢 **BRAVE (2023.04 ~ Present)**
+🏢 **BRAVE (2023.04 ~ 2024.02)**
 - **Type**: Non-profit Organization
 - **Position**: Representative
 - **Achievements**:
