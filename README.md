@@ -10,7 +10,7 @@
   - Published "VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices" at The 4th Korea Artificial Intelligence Conference.
 
 📖 **Deep Learning Bible**
-- **Specialization**: [Reinforcement Learning](https://wikidocs.net/book/7888), [Classification](https://wikidocs.net/book/7887), [Object Detection](https://wikidocs.net/book/7721)
+- **Specialization**: [Reinforcement Learning](https://wikidocs.net/book/7888), [Classification](https://wikidocs.net/book/7887), [Object Detection](https://wikidocs.net/book/7721), [Representation Learning](https://wikidocs.net/book/9091)
 - **Overview**: The "Deep Learning Bible" is a comprehensive guide that delves deep into the intricacies of reinforcement learning. It provides readers with both theoretical knowledge and practical applications, bridging the gap between academia and industry.
 - **Highlights**:
   - Detailed explanations of fundamental Deep Reinforcement Learning algorithms.
