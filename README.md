@@ -54,8 +54,7 @@
   - This project was grounded in data collected within Korea, aiming to advance AI development in the realm of autonomous vehicles.
     
 - 🥇 **KAU Hackathon** - 1st place (2023.5) :
-  - Returned to the KAU Hackathon with a winning project that once again utilized Unity for creating a model training image generation service.
-  - This victory underscored the iterative improvement and refinement of our original concept, solidifying our team's reputation for innovation.
+  - Increased security through a deep learning framework that validates information in real-time in communications with counterparties.
     
 - 🏅 **ICT Startup Makeathon** - Best Award (2023.6) :
   - Developed a startup service based on a lightweight deepfake detection service.
