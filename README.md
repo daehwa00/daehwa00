@@ -42,11 +42,28 @@
 ## 🏆 **Awards**
 
 - 🥉 **KAU Hackathon** - 3rd place (2022)
+  - Participated in a non-stop, two-day hackathon within the university setting, where I contributed to developing a web service that generates images for model training using Unity.
+  - This project demonstrated an innovative approach to utilizing gaming technology for AI development.
+    
 - 🏅 **AI Industry-Academia Collaboration Project** - Dean's Award (2022.6)
-- 🏅 **AI R&D Project** - Excellence Award (2022.12)
-- 🥇 **KAU Hackathon** - 1st place (2023.5)
-- 🏅 **ICT Startup Makeathon** - Best Award (2023.6)
-- 🏅 **SW-Centered University Joint Hackathon** - Special Award (2023.6)
+  - Pioneered a service by stepping away from the traditional Web Application Server (WAS) Framework and opting for a serverless backend architecture.
+  - I was instrumental in integrating Ko-BERT for offering a chatbot service, showcasing the ability to leverage cutting-edge NLP technologies for practical applications.
+    
+- 🏅 **AI R&D Project** - Excellence Award (2022.12) :
+  - Focused on the challenge of image recognition for autonomous driving, specifically targeting traffic signs and other relevant images.
+  - This project was grounded in data collected within Korea, aiming to advance AI development in the realm of autonomous vehicles.
+    
+- 🥇 **KAU Hackathon** - 1st place (2023.5) :
+  - Returned to the KAU Hackathon with a winning project that once again utilized Unity for creating a model training image generation service.
+  - This victory underscored the iterative improvement and refinement of our original concept, solidifying our team's reputation for innovation.
+    
+- 🏅 **ICT Startup Makeathon** - Best Award (2023.6) :
+  - Developed a startup service based on a lightweight deepfake detection service.
+  - This project went beyond mere detection; it introduced minor distortions to images to prevent their use in deepfake generation, demonstrating a proactive approach to digital security.
+    
+- 🏅 **SW-Centered University Joint Hackathon** - Special Award (2023.6) :
+  - As team leader for "Really You", I led the planning and backend development of a service that expanded on the ideas from the ICT Startup Makeathon.
+  - We enhanced our deepfake detection capabilities to also counteract deepfake voice generation, showcasing our team's ability to apply our technology to a broader range of deepfake concerns.
 
 ---
 
