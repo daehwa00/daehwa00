@@ -28,14 +28,21 @@
   - Researcher in the collaborative ML project between Korea Air & Airbus.
   - Dedicated to enhancing flight robustness through advanced AI algorithms.
   - Pioneered vulnerability research using Explainable AI, providing insights into potential weaknesses and areas for improvement in aviation AI systems.
-  
+
+   
 🎓 **Capstone Design (2022.08 ~ 2022.12)**
 - **Collaboration**: Company "Ratio"
 - **Project**: Development of vision AI for autonomous driving.
 
+   
 💼 **Cooperation Project (2023.03 ~ 2022.06)**
 - **Project**: Web development with integrated counseling AI.
 - **Achievement**: Won the 2nd place.
+
+   
+🚀 **LG Discovery Lab Seoul Crew (2024.03 ~ )**
+- **Position**: Youth AI Educator
+- **Responsibilities**: Facilitating hands-on learning experiences to foster interest and skills in AI among young learners.
 
 ---
 
