@@ -90,7 +90,7 @@
 - Python, R, Pytorch, Git, Docker, CUDA, Unity3D, Issac Sim, ROS2, NAS
 
 **Web Development**: 
-- JavaScript, TypeScript, React, Next.js, Node.js, Figma
+- JavaScript, TypeScript, React, Next.js, Node.js, Figma, three.js
 
 ---
 
