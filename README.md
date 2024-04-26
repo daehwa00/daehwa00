@@ -98,8 +98,13 @@
 
 **Seoul Daesung High School (Graduated in 2019.02)**
 
-**Korea Aerospace University (2020.03 ~ 2024.02 - Expected Graduation)**
+**Korea Aerospace University (2020.03 ~ 2024.02)**
+  - Bachelor’s Degree
   - 💻 Department of Software & 🛠 Mechanical Engineering (Double Major)
+
+**Korea Aerospace University (2024.03 ~ )**
+  - Master's Studies
+  - 🤖 Department of Artificial Intelligence
 
 ---
 
