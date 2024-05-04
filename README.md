@@ -9,11 +9,11 @@
   - Engaged in the Goyang-City Business Funding Project.
   - Published "VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices" at The 4th Korea Artificial Intelligence Conference.
 
-📖 **Deep Learning Bible**
+📖 **Deep Learning Bible Author**
 - **Specialization**: [Reinforcement Learning](https://wikidocs.net/book/7888), [Classification](https://wikidocs.net/book/7887), [Object Detection](https://wikidocs.net/book/7721), [Representation Learning](https://wikidocs.net/book/9091)
-- **Overview**: The "Deep Learning Bible" is a comprehensive guide that delves deep into the intricacies of reinforcement learning. It provides readers with both theoretical knowledge and practical applications, bridging the gap between academia and industry.
+- **Overview**: The "Deep Learning Bible" is a comprehensive guide that delves deep into the intricacies of deep learning. It provides readers with both theoretical knowledge and practical applications, bridging the gap between academia and industry.
 - **Highlights**:
-  - Detailed explanations of fundamental Deep Reinforcement Learning algorithms.
+  - Detailed explanations of fundamental Deep Learning algorithms.
   - Hands-on examples and code snippets to help readers implement learned concepts.
   - Collaborative efforts with leading experts in the field to ensure accuracy and relevance.
 
@@ -24,8 +24,8 @@
   - Led the initiative for autonomous navigation in colonoscopy procedures.
   - Constructed and optimized simulation environments to test and validate AI models.
 
-  🛫 **AIER Project Researcher**
-  - Researcher in the collaborative ML project between Korea Air & Airbus.
+  🛫 **AIER Project Researcher Leader**
+  - Researcher in the collaborative DL project between Korea Air & Airbus.
   - Dedicated to enhancing flight robustness through advanced AI algorithms.
   - Pioneered vulnerability research using Explainable AI, providing insights into potential weaknesses and areas for improvement in aviation AI systems.
 
@@ -43,6 +43,7 @@
 🚀 **LG Discovery Lab Seoul Crew (2024.03 ~ )**
 - **Position**: Youth AI Educator
 - **Responsibilities**: Facilitating hands-on learning experiences to foster interest and skills in AI among young learners.
+
 
 ---
 
