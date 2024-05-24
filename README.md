@@ -44,6 +44,10 @@
 - **Position**: Youth AI Educator
 - **Responsibilities**: Facilitating hands-on learning experiences to foster interest and skills in AI among young learners.
 
+🤖 **President, Deep Learning Club "Deeperent" at Korea Aerospace University (2023 ~ )**
+
+- **Role**: Leading and organizing deep learning projects, mentoring new members, and fostering a collaborative learning environment.
+- **Achievements**: Successfully initiated several key projects in the field of deep learning, significantly contributing to the club's growth and members' development.
 
 ---
 
