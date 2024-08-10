@@ -85,7 +85,7 @@
 
 ### **Submitted Papers**
 - **Title Not Disclosed**
-  - Submitted to NIPS 2024 (Undergraduate work), awaiting results.
+  - Submitted to NeurIPS 2024 (Undergraduate work), awaiting results.
     
 ### **Graduate Papers**
 - **TBD (Not yet)**
