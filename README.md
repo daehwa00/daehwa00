@@ -86,10 +86,6 @@
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Imagee Classification and Object Detection**
   - **NeurIPS 2024**
   - Dongsu Song, Daehwa Ko
-
-### **Submitted Papers**
-- **Title Not Disclosed**
-  - Submitted to NeurIPS 2024 (Undergraduate work), awaiting results.
     
 ### **Graduate Papers**
 - **TBD (Not yet)**
