@@ -83,6 +83,10 @@
 - **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**
   - Presented at KICS Summer Conference 2024.
 
+- **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Imagee Classification and Object Detection**
+  - **NeurIPS 2024**
+  - Dongsu Song, Daehwa Ko
+
 ### **Submitted Papers**
 - **Title Not Disclosed**
   - Submitted to NeurIPS 2024 (Undergraduate work), awaiting results.
