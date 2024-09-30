@@ -7,6 +7,27 @@
   - Detailed explanations of fundamental Deep Learning algorithms.
   - Hands-on examples and code snippets to help readers implement learned concepts.
   - Collaborative efforts with leading experts in the field to ensure accuracy and relevance.
+ 
+---
+
+## 📄 **Publications**
+
+### **Undergraduate Papers**
+- **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Imagee Classification and Object Detection**
+  - **NeurIPS 2024**
+  - Dongsu Song, Daehwa Ko
+
+- **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**
+  - Presented at KICS Summer Conference 2024.
+ 
+- **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices** 
+  - Presented at The 4th Korea Artificial Intelligence Conference.
+    
+### **Graduate Papers**
+- **TBD (Not yet)**
+  - Placeholder for future publications during the Master's program.
+ 
+---
 
 🏢 **BRAVE (2023.04 ~ 2024.02)**
 - **Type**: Non-profit Organization
@@ -72,24 +93,6 @@
   - As team leader for "Really You", I led the planning and backend development of a service that expanded on the ideas from the ICT Startup Makeathon.
   - We enhanced our deepfake detection capabilities to also counteract deepfake voice generation, showcasing our team's ability to apply our technology to a broader range of deepfake concerns.
 
----
-
-## 📄 **Publications**
-
-### **Undergraduate Papers**
-- **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices** 
-  - Presented at The 4th Korea Artificial Intelligence Conference.
-
-- **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**
-  - Presented at KICS Summer Conference 2024.
-
-- **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Imagee Classification and Object Detection**
-  - **NeurIPS 2024**
-  - Dongsu Song, Daehwa Ko
-    
-### **Graduate Papers**
-- **TBD (Not yet)**
-  - Placeholder for future publications during the Master's program.
 
 ---
 
