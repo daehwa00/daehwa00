@@ -27,7 +27,7 @@
 
 **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices**  
 *The 4th Korea Artificial Intelligence Conference*  
-**Daehwa Ko, Garam Jung, Jay Jung**
+**Daehwa Ko, Garam Jung, Jayhoon Jung**
 
 ---
     
