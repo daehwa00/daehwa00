@@ -12,22 +12,24 @@
 
 ## 📄 **Publications**
 
-### **Undergraduate Papers**
-**Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
-*NeurIPS 2024*  
-**Dongsu Song, Daehwa Ko, Jayhoon Jung**
+### 🎓 **Undergraduate Papers**  
+- **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
+  *NeurIPS 2024*  
+  **Dongsu Song, Daehwa Ko, Jayhoon Jung**
 
-**Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**  
-*KICS Summer Conference 2024*  
-**Daehwa Ko, Jaehoon Kim, Jayhoon Jung**
+- **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**  
+  *KICS Summer Conference 2024*  
+  **Daehwa Ko, Jaehoon Kim, Jayhoon Jung**
 
-**VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices**  
-*The 4th Korea Artificial Intelligence Conference*  
-**Daehwa Ko, Garam Jung, Jayhoon Jung**
+- **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices**  
+  *The 4th Korea Artificial Intelligence Conference*  
+  **Daehwa Ko, Garam Jung, Jayhoon Jung**
 
-### **Graduate Papers**
-- **TBD (Not yet)**
-  - Placeholder for future publications during the Master's program.
+---
+
+### 🎓 **Graduate Papers**  
+- **TBD** *(Not yet)*  
+  Placeholder for future publications during the Master's program.
  
 ---
 
