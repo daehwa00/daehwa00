@@ -101,7 +101,7 @@
   - As team leader for "Really You", I led the planning and backend development of a service that expanded on the ideas from the ICT Startup Makeathon.
   - We enhanced our deepfake detection capabilities to also counteract deepfake voice generation, showcasing our team's ability to apply our technology to a broader range of deepfake concerns.
 
-
+- 🏅 **KAU Gen.AI Business Hackathon** - The GRand Award (2024. 10)
 ---
 
 ## 🎥 **YouTube Channel**
