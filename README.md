@@ -13,17 +13,21 @@
 ## 📄 **Publications**
 
 ### 🎓 **Undergraduate Papers**  
+- **To be submitted**  
+  *IJCAI 2025 (under review, anonymized)*  
+  **Daehwa Ko, [Blind for Review], [Blind for Review], [Blind for Review]**
+  
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
   *NeurIPS 2024*  
-  **Dongsu Song, Daehwa Ko, Jayhoon Jung**
+  Dongsu Song, **Daehwa Ko**, Jayhoon Jung
 
 - **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**  
   *KICS Summer Conference 2024*  
-  **Daehwa Ko, Jaehoon Kim, Jayhoon Jung**
+  **Daehwa Ko**, Jaehoon Kim, Jayhoon Jung
 
 - **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices**  
   *The 4th Korea Artificial Intelligence Conference*  
-  **Daehwa Ko, Garam Jung, Jayhoon Jung**
+  **Daehwa Ko**, Garam Jung, Jayhoon Jung
 
 ---
 
