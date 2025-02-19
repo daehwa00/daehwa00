@@ -19,13 +19,13 @@
 ---
 ## 🌟 **Experience**
 
-📌 **REBE - Co-Founder & CEO (2024.02 ~ Present)**  
+📌 **REBE - Co-Founder & CEO (2023.09 ~ Present)**  
 - **Business Type**: For-Profit  
 - **Service**: [AI-powered beauty transformation app "REBE"](https://apps.apple.com/kr/app/rebe/id6737768582) (Available on **App Store**)  
 - **Role**: CEO & Lead AI Developer  
 
 
-🏢 **BRAVE (2023.04 ~ 2024.02)**
+🏢 **BRAVE (2023.04 ~ 2023.12)**
 - **Type**: Non-profit Organization
 - **Position**: Representative
 - **Achievements**:
