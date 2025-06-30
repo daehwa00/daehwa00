@@ -8,6 +8,11 @@
   *NeurIPS 2024*  
   Dongsu Song, **Daehwa Ko**, Jayhoon Jung
 
+ - **Shape Optimization of Airfoils Based on Reinforcement Learning**  
+  *Korean Society for Aeronautical & Space Sciences Spring Conference 2025*  
+  **Outstanding Presentation Paper Award**  
+  **Daehwa Ko**, Jaehoon Jung
+
 - **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**  
   *KICS Summer Conference 2024*  
   **Daehwa Ko**, Jaehoon Kim, Jayhoon Jung
