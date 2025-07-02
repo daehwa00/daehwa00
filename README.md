@@ -28,7 +28,11 @@
 - **Business Type**: For-Profit  
 - **Service**: AI-powered beauty transformation app "REBE" (Available on [**App Store**](https://apps.apple.com/kr/app/rebe/id6737768582) & [**PlayStore**](https://play.google.com/store/apps/details?id=com.imagewizard.rebe))  
 - **Role**: CEO & Lead AI Developer  
-
+* **Key Achievements**:
+  * **Selected for Seoul National University SNaaC Re\:Pit Acceleration Program** *(July 2025)*
+    Participated in SNU’s prestigious accelerator program, receiving intensive mentoring and startup training, as well as early-stage IR feedback and networking opportunities.
+  * **Awarded at Goyang IR Day** *(July 2025)*
+    Recognized for excellence in business model, market potential, and technology at a major domestic startup IR competition
 
 🏢 **BRAVE (2023.04 ~ 2023.12)**
 - **Type**: Non-profit Organization
