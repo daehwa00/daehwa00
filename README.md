@@ -29,8 +29,8 @@
 - **Service**: AI-powered beauty transformation app "REBE" (Available on [**App Store**](https://apps.apple.com/kr/app/rebe/id6737768582) & [**PlayStore**](https://play.google.com/store/apps/details?id=com.imagewizard.rebe))  
 - **Role**: CEO & Lead AI Developer  
 * **Key Achievements**:
-  * **Selected for Seoul National University SNaaC Re\:Pit Acceleration Program** *(July 2025)*
-    Participated in SNU’s prestigious accelerator program, receiving intensive mentoring and startup training, as well as early-stage IR feedback and networking opportunities.
+  * **Winner of Excellence Award at SNU SNaaC Re\:Pit Acceleration Program (July 2025)**
+    Received the Excellence Award in Seoul National University’s SNaaC Re\:Pit Accelerator, recognized for outstanding business model, technical innovation, and growth potential.
   * **Awarded at Goyang IR Day** *(July 2025)*
     Recognized for excellence in business model, market potential, and technology at a major domestic startup IR competition
 
