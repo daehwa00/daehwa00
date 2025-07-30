@@ -1,9 +1,4 @@
 ## 📄 **Publications**
-
-- **To be submitted**  
-  *IJCAI 2025 (under review, anonymized)*  
-  **Daehwa Ko**, [Blind for Review], [Blind for Review], [Blind for Review]
-  
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
   *NeurIPS 2024*  
   Dongsu Song, **Daehwa Ko**, Jayhoon Jung
