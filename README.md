@@ -1,4 +1,6 @@
 ## 📄 **Publications**
+- [Title Withheld for Double-Blind Review] Submitted to AAAI Conference on Artificial Intelligence (AAAI) 2026
+- [Title Withheld for Double-Blind Review] Submitted to International Conference on Artificial Intelligence and Statistics (AISTATS) 2026 
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
   *NeurIPS 2024*  
   Dongsu Song, **Daehwa Ko**, Jayhoon Jung
