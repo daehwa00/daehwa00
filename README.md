@@ -22,9 +22,9 @@
 ---
 ## 🌟 **Experience**
 
-📌 **REBE - Co-Founder & CEO (2024.09 ~ Present)**  
+📌 **GlowMe - Co-Founder & CEO (2024.09 ~ Present)**  
 - **Business Type**: For-Profit  
-- **Service**: AI-powered beauty transformation app "REBE" (Available on [**App Store**](https://apps.apple.com/kr/app/rebe/id6737768582) & [**PlayStore**](https://play.google.com/store/apps/details?id=com.imagewizard.rebe))  
+- **Service**: AI-powered beauty transformation app "REBE" (Available on [**PlayStore**](https://play.google.com/store/apps/details?id=app.braveidiots.glowme))  
 - **Role**: CEO & Lead AI Developer  
 * **Key Achievements**:
   * **Winner of Excellence Award at SNU SNaaC Re\:Pit Acceleration Program (July 2025)**
