@@ -1,6 +1,5 @@
 ## 📄 **Publications**
-- [Title Withheld for Double-Blind Review] IJCNN 2026
-- [Title Withheld for Double-Blind Review] ICML 2026
+- [Title Withheld for Double-Blind Review] International Conference on Machine Learning (ICML) 2026
 - [Title Withheld for Double-Blind Review] Submitted to International Conference on Artificial Intelligence and Statistics (AISTATS) 2026 
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
   *NeurIPS 2024*  
