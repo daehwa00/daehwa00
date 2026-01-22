@@ -1,19 +1,20 @@
 ## 📄 **Publications**
-- [Title Withheld for Double-Blind Review] International Conference on Machine Learning (ICML) 2026
-- [Title Withheld for Double-Blind Review] Submitted to International Conference on Artificial Intelligence and Statistics (AISTATS) 2026 
+- **TESLA: Taylor Expansion of Sinusoidal Learnable Activations**  
+  *AISTATS 2026*  
+  **Daehwa Ko**, JaeHyeon Kim, SeungHyun Ham, Jay Hoon Jung
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
   *NeurIPS 2024*  
   Dongsu Song, **Daehwa Ko**, Jayhoon Jung
+- [Title Withheld for Double-Blind Review] International Conference on Machine Learning (ICML) 2026
 
+  
  - **Shape Optimization of Airfoils Based on Reinforcement Learning**  
   *Korean Society for Aeronautical & Space Sciences Spring Conference 2025*  
   **Outstanding Presentation Paper Award**  
   **Daehwa Ko**, Jaehoon Jung
-
 - **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**  
   *KICS Summer Conference 2024*  
   **Daehwa Ko**, Jaehoon Kim, Jayhoon Jung
-
 - **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices**  
   *The 4th Korea Artificial Intelligence Conference*  
   **Daehwa Ko**, Garam Jung, Jayhoon Jung
