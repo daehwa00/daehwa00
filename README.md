@@ -22,7 +22,7 @@
 ---
 ## 🌟 **Experience**
 
-📌 **GlowMe - Co-Founder & CEO (2024.09 ~ Present)**  
+📌 **GlowMe - CEO & Co-Founder (2024.09 ~ Present)**  
 - **Business Type**: For-Profit  
 - **Service**: AI-powered beauty transformation app "GlowMe AI" (Available on [**PlayStore**](https://play.google.com/store/apps/details?id=app.braveidiots.glowme) & [**AppStore**](https://apps.apple.com/kr/app/glowme-ai-styling/id6755821428))
 - **Role**: CEO & Lead AI Developer  
