@@ -5,7 +5,7 @@
 - **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
   *NeurIPS 2024*  
   Dongsu Song, **Daehwa Ko**, Jayhoon Jung
-- [Title Withheld for Double-Blind Review] International Conference on Machine Learning (ICML) 2026
+- [Title Withheld for Double-Blind Review] NeurIPS 2026
 
   
  - **Shape Optimization of Airfoils Based on Reinforcement Learning**  
