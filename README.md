@@ -61,7 +61,7 @@
 - **Project**: Web development with integrated counseling AI.
 - **Achievement**: Won the 2nd place.
 
-🚀 **LG Discovery Lab Seoul (2024.03 ~ )**
+🚀 **LG Discovery Lab Seoul (2024.03 ~ 2025.09)**
 - **Position**: Youth AI Educator
 - **Responsibilities**: Facilitating hands-on learning experiences to foster interest and skills in AI among young learners.
 
