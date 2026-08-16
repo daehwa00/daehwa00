@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Daehwa Ko — AI Researcher and Founder</title>
+  <desc id="desc">A dark editorial banner with a violet and cyan network motif and the words From papers to products.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827" />
+      <stop offset="0.48" stop-color="#0d1117" />
+      <stop offset="1" stop-color="#07141d" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa" />
+      <stop offset="1" stop-color="#22d3ee" />
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(130 72) rotate(43) scale(310 240)">
+      <stop stop-color="#8b5cf6" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 126) rotate(138) scale(360 260)">
+      <stop stop-color="#06b6d4" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8b9bb4" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="28" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <rect width="1200" height="360" fill="url(#violetGlow)" />
+    <rect width="1200" height="360" fill="url(#cyanGlow)" />
+
+    <circle cx="1015" cy="170" r="132" fill="none" stroke="#38bdf8" stroke-opacity="0.12" stroke-width="1" stroke-dasharray="5 12" />
+    <circle cx="1015" cy="170" r="94" fill="none" stroke="#a78bfa" stroke-opacity="0.1" stroke-width="1" />
+
+    <g fill="none" stroke="#38bdf8" stroke-opacity="0.48" stroke-width="1.4">
+      <path d="M782 79L867 51L930 101L1020 68L1113 118" />
+      <path d="M813 164L867 51L927 192L1020 68L1082 211L1160 167" />
+      <path d="M782 79L813 164L927 192L1011 281L1082 211L1160 167" />
+      <path d="M930 101L927 192L1113 118L1082 211" />
+      <path d="M813 164L876 264L1011 281L1160 167" />
+    </g>
+
+    <g fill="#7dd3fc">
+      <circle cx="782" cy="79" r="3.5" opacity="0.72" />
+      <circle cx="813" cy="164" r="4.5" opacity="0.9" />
+      <circle cx="867" cy="51" r="3.5" opacity="0.72" />
+      <circle cx="876" cy="264" r="3" opacity="0.64" />
+      <circle cx="927" cy="192" r="5.5" filter="url(#softGlow)" />
+      <circle cx="930" cy="101" r="3.5" opacity="0.76" />
+      <circle cx="1011" cy="281" r="3.5" opacity="0.62" />
+      <circle cx="1020" cy="68" r="4" opacity="0.84" />
+      <circle cx="1082" cy="211" r="5" filter="url(#softGlow)" />
+      <circle cx="1113" cy="118" r="3" opacity="0.7" />
+      <circle cx="1160" cy="167" r="3.5" opacity="0.7" />
+    </g>
+
+    <circle cx="1045" cy="291" r="5" fill="#fb7185" filter="url(#softGlow)" />
+    <path d="M72 77H224" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#94a3b8" stroke-opacity="0.22" stroke-width="2" />
+
+  <text x="72" y="62" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="600" letter-spacing="3">RESEARCH  ·  BUILD  ·  SHIP</text>
+  <text x="72" y="165" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="76" font-weight="750" letter-spacing="3">DAEHWA KO</text>
+  <text x="72" y="228" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30" font-weight="650">
+    <tspan fill="#a78bfa">AI Researcher</tspan>
+    <tspan fill="#64748b">  ×  </tspan>
+    <tspan fill="#22d3ee">Founder</tspan>
+  </text>
+  <text x="72" y="294" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="400" letter-spacing="0.4">From papers to products.</text>
+</svg>
