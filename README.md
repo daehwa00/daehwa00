@@ -110,6 +110,14 @@ Dongsu Song, **Daehwa Ko**, Jay Hoon Jung
 - Led research activities for the AIER industry–academia project involving Korea Aerospace University, Korean Air, and Airbus.
 - Investigated aviation-AI robustness and model vulnerabilities using explainable-AI techniques.
 
+### Deep Learning Bible — Author
+
+- Authored educational materials covering reinforcement learning, classification, object detection, and representation learning.
+- Developed explanations connecting theoretical concepts with practical implementations and code examples.
+- Collaborated with other contributors to improve the accuracy and accessibility of the material.
+
+[Reinforcement Learning →](https://wikidocs.net/202551) · [Classification →](https://wikidocs.net/195735v) · [Object Detection →](https://wikidocs.net/203719) · [Representation Learning →](https://wikidocs.net/book/9091)
+
 <details>
 <summary><strong>Additional Experience, Leadership, and Activities</strong></summary>
 
@@ -138,14 +146,6 @@ Dongsu Song, **Daehwa Ko**, Jay Hoon Jung
 - Organize machine-learning projects and technical study sessions.
 - Mentor new members and support collaborative research and development.
 - Initiated and managed multiple deep-learning projects across the club.
-
-### Deep Learning Bible — Author
-
-- Authored educational materials covering reinforcement learning, classification, object detection, and representation learning.
-- Developed explanations connecting theoretical concepts with practical implementations and code examples.
-- Collaborated with other contributors to improve the accuracy and accessibility of the material.
-
-[Reinforcement Learning →](https://wikidocs.net/202551) · [Classification →](https://wikidocs.net/195735v) · [Object Detection →](https://wikidocs.net/203719) · [Representation Learning →](https://wikidocs.net/book/9091)
 
 ### Capstone Design Project — Ratio
 
