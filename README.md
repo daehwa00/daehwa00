@@ -6,11 +6,11 @@
     Korea Aerospace University
   </p>
   <p>
-    <code>Machine Learning</code>&nbsp;
-    <code>Foundation Models</code>&nbsp;
-    <code>Reinforcement Learning</code><br>
-    <code>Adversarial Robustness</code>&nbsp;
-    <code>Computer Vision</code>
+    <img src="https://img.shields.io/badge/Machine%20Learning-2F455C?style=flat-square" alt="Machine Learning">&nbsp;
+    <img src="https://img.shields.io/badge/Foundation%20Models-3D5A80?style=flat-square" alt="Foundation Models">&nbsp;
+    <img src="https://img.shields.io/badge/Reinforcement%20Learning-4F6D7A?style=flat-square" alt="Reinforcement Learning"><br>
+    <img src="https://img.shields.io/badge/Adversarial%20Robustness-5B4B68?style=flat-square" alt="Adversarial Robustness">&nbsp;
+    <img src="https://img.shields.io/badge/Computer%20Vision-3F6C68?style=flat-square" alt="Computer Vision">
   </p>
   <p>
     <a href="https://scholar.google.com/citations?user=fVDQ8EAAAAAJ">Google Scholar</a>
