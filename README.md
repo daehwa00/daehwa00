@@ -49,6 +49,13 @@
 Dongsu Song, **Daehwa Ko**, Jay Hoon Jung  
 *Advances in Neural Information Processing Systems (NeurIPS 2024)*
 
+### Submitted Manuscripts
+
+- **Title withheld for double-blind review** — *Submitted to NeurIPS 2026*
+- **Title withheld for double-blind review** — *Submitted to AAAI 2026*
+- **Manuscript I — title withheld for double-blind review** — *Submitted to ICLR 2027*
+- **Manuscript II — title withheld for double-blind review** — *Submitted to ICLR 2027*
+
 <details>
 <summary><strong>Additional Publications</strong></summary>
 
