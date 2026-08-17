@@ -225,12 +225,3 @@ March 2024 – Present
 **B.S. in Software and Mechanical Engineering**  
 Double Major  
 March 2020 – February 2024
-
----
-
-## Contact
-
-- Email: [daehwa001210@kau.kr](mailto:daehwa001210@kau.kr)
-- GitHub: [github.com/daehwa00](https://github.com/daehwa00)
-- Google Scholar: [Daehwa Ko](https://scholar.google.com/citations?user=fVDQ8EAAAAAJ)
-- OpenReview: [Daehwa Ko](https://openreview.net/profile?id=~Daehwa_Ko1)
