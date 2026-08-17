@@ -1,153 +1,250 @@
-## 📄 **Publications**
-- **TESLA: Taylor Expansion of Sinusoidal Learnable Activations**  
-  *AISTATS 2026*  
-  **Daehwa Ko**, JaeHyeon Kim, SeungHyun Ham, Jay Hoon Jung
-- **Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection**  
-  *NeurIPS 2024*  
-  Dongsu Song, **Daehwa Ko**, Jayhoon Jung
-- [Title Withheld for Double-Blind Review] NeurIPS 2026
-
-  
- - **Shape Optimization of Airfoils Based on Reinforcement Learning**  
-  *Korean Society for Aeronautical & Space Sciences Spring Conference 2025*  
-  **Outstanding Presentation Paper Award**  
-  **Daehwa Ko**, Jaehoon Jung
-- **Confidence-independent Adversarial Attacks with Reinforcement Learning and Image Patching**  
-  *KICS Summer Conference 2024*  
-  **Daehwa Ko**, Jaehoon Kim, Jayhoon Jung
-- **VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices**  
-  *The 4th Korea Artificial Intelligence Conference*  
-  **Daehwa Ko**, Garam Jung, Jayhoon Jung
- 
----
-## 🌟 **Experience**
-
-📌 **GlowMe - CEO & Co-Founder (2024.09 ~ Present)**  
-- **Business Type**: For-Profit  
-- **Service**: AI-powered beauty transformation app "GlowMe AI" (Available on [**PlayStore**](https://play.google.com/store/apps/details?id=app.braveidiots.glowme) & [**AppStore**](https://apps.apple.com/kr/app/glowme-ai-styling/id6755821428))
-- **Role**: CEO & Lead AI Developer  
-* **Key Achievements**:
-  * **Winner of Excellence Award at SNU SNaaC Re\:Pit Acceleration Program (July 2025)**
-    Received the Excellence Award in Seoul National University’s SNaaC Re\:Pit Accelerator, recognized for outstanding business model, technical innovation, and growth potential.
-  * **Awarded at Goyang IR Day** *(July 2025)*
-    Recognized for excellence in business model, market potential, and technology at a major domestic startup IR competition
-
-🏢 **BRAVE (2023.04 ~ 2023.12)**
-- **Type**: Non-profit Organization
-- **Position**: Representative
-- **Achievements**:
-  - Spearheaded the creation of a domestic violence prevention app in collaboration with Ilsan East Police Station.
-  - Innovated an AI system for domestic violence speaker verification.
-  - Engaged in the Goyang-City Business Funding Project.
-  - Published "VoiceKey: Real-time Compression Encoding and Quantization for Voice Authentication Model on Edge Devices" at The 4th Korea Artificial Intelligence Conference.
-
-🔬 **QAI (Quantum Artificial Intelligence) Lab (2021.12 ~ Present)**
-- **Position**: Researcher
-
-  🎯 **RL Developer**
-  - Led the initiative for autonomous navigation in colonoscopy procedures.
-  - Constructed and optimized simulation environments to test and validate AI models.
-
-  🛫 **AIER Project Researcher Leader**
-  - Researcher in the collaborative DL project between Korea Air & Airbus.
-  - Dedicated to enhancing flight robustness through advanced AI algorithms.
-  - Pioneered vulnerability research using Explainable AI, providing insights into potential weaknesses and areas for improvement in aviation AI systems.
-
-🎓 **Capstone Design (2022.08 ~ 2022.12)**
-- **Collaboration**: Company "Ratio"
-- **Project**: Development of vision AI for autonomous driving.
-
-💼 **Cooperation Project (2023.03 ~ 2022.06)**
-- **Project**: Web development with integrated counseling AI.
-- **Achievement**: Won the 2nd place.
-
-🚀 **LG Discovery Lab Seoul (2024.03 ~ 2025.09)**
-- **Position**: Youth AI Educator
-- **Responsibilities**: Facilitating hands-on learning experiences to foster interest and skills in AI among young learners.
-
-🤖 **President, Deep Learning Club "Deeperent" at Korea Aerospace University (2023 ~ )**
-- **Role**: Leading and organizing deep learning projects, mentoring new members, and fostering a collaborative learning environment.
-- **Achievements**: Successfully initiated several key projects in the field of deep learning, significantly contributing to the club's growth and members' development.
-
-📖 **Deep Learning Bible Author**
-- **Specialization**: [Reinforcement Learning](https://wikidocs.net/202551), [Classification](https://wikidocs.net/195735v), [Object Detection](https://wikidocs.net/203719), [Representation Learning](https://wikidocs.net/book/9091)
-- **Overview**: The "Deep Learning Bible" is a comprehensive guide that delves deep into the intricacies of deep learning. It provides readers with both theoretical knowledge and practical applications, bridging the gap between academia and industry.
-- **Highlights**:
-  - Detailed explanations of fundamental Deep Learning algorithms.
-  - Hands-on examples and code snippets to help readers implement learned concepts.
-  - Collaborative efforts with leading experts in the field to ensure accuracy and relevance.
+<div align="center">
+  <h1>Daehwa Ko</h1>
+  <p><strong>Researcher working across machine learning theory and practical AI systems</strong></p>
+  <p>
+    M.S. Researcher in Artificial Intelligence<br>
+    Korea Aerospace University
+  </p>
+  <p>
+    <code>Machine Learning</code>&nbsp;
+    <code>Foundation Models</code>&nbsp;
+    <code>Reinforcement Learning</code><br>
+    <code>Adversarial Robustness</code>&nbsp;
+    <code>Computer Vision</code>
+  </p>
+  <p>
+    <a href="https://scholar.google.com/citations?user=fVDQ8EAAAAAJ">Google Scholar</a>
+    &nbsp;·&nbsp;
+    <a href="https://openreview.net/profile?id=~Daehwa_Ko1">OpenReview</a>
+    &nbsp;·&nbsp;
+    <a href="https://orcid.org/0009-0009-1037-5598">ORCID</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:daehwa001210@kau.kr">Email</a>
+  </p>
+</div>
 
 ---
 
-## 🏆 **Awards**
-- 🏅 **KAU AI Drone Racing** - Grand Prize (2024.12)
+## Featured Research
 
-- 🏅 **KAU Gen.AI Business Hackathon** - The GRand Award (2024.10)  
+### [TESLA: Taylor Expansion of Sinusoidal Learnable Activations](https://arxiv.org/abs/2608.11970)
 
-- 🏅 **SW-Centered University Joint Hackathon** - Special Award (2023.6)  
-  - As team leader for "Really You", I led the planning and backend development of a service that expanded on the ideas from the ICT Startup Makeathon.  
-  - We enhanced our deepfake detection capabilities to also counteract deepfake voice generation, showcasing our team's ability to apply our technology to a broader range of deepfake concerns.  
+<code>AISTATS 2026</code> <code>PMLR 300</code> <code>Learnable Activations</code>
 
-- 🏅 **ICT Startup Makeathon** - Best Award (2023.6)  
-  - Developed a startup service based on a lightweight deepfake detection service.  
-  - This project went beyond mere detection; it introduced minor distortions to images to prevent their use in deepfake generation, demonstrating a proactive approach to digital security.  
+> A learnable sinusoidal activation that provides explicit control over polynomial degree and selective amplification of high-order components.
 
-- 🥇 **KAU Hackathon** - 1st place (2023.5)  
-  - Increased security through a deep learning framework that validates information in real-time in communications with counterparties.  
+**Daehwa Ko**, JaeHyeon Kim, SeungHyun Ham, Jay Hoon Jung  
+*Proceedings of the 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026), PMLR 300*
 
-- 🏅 **AI R&D Project** - Excellence Award (2022.12)  
-  - Focused on the challenge of image recognition for autonomous driving, specifically targeting traffic signs and other relevant images.  
-  - This project was grounded in data collected within Korea, aiming to advance AI development in the realm of autonomous vehicles.  
-
-- 🏅 **AI Industry-Academia Collaboration Project** - Dean's Award (2022.6)  
-  - Pioneered a service by stepping away from the traditional Web Application Server (WAS) Framework and opting for a serverless backend architecture.  
-  - I was instrumental in integrating Ko-BERT for offering a chatbot service, showcasing the ability to leverage cutting-edge NLP technologies for practical applications.  
-
-- 🥉 **KAU Hackathon** - 3rd place (2022)  
-  - Participated in a non-stop, two-day hackathon within the university setting, where I contributed to developing a web service that generates images for model training using Unity.  
-  - This project demonstrated an innovative approach to utilizing gaming technology for AI development.  
----
-
-## 🎥 **YouTube Channel**
-[Daehwa's AI & Linear Algebra Deep Dive](https://www.youtube.com/channel/UCyajG8EDAbtXdgvWQwurVqw) 📺
-
-- **Specialization**: Deep Learning and Advanced Linear Algebra
-- **Overview**: My channel focuses on delivering in-depth lectures on deep learning and advanced linear algebra, aiming to provide viewers with a comprehensive understanding of these critical topics in AI and mathematics. 🧠
-- **Highlights**:
-  - Detailed tutorials on various deep learning techniques and concepts. 📚
-  - Advanced lessons on linear algebra, essential for understanding and implementing AI algorithms. 🔢
+[Read the paper →](https://arxiv.org/abs/2608.11970) · [OpenReview →](https://openreview.net/forum?id=cMQ9GE4msQ)
 
 ---
 
-## 🛠 **Technical Proficiency**
+## Publications
 
-**Artificial Intelligence**: 
-- Python, R, Pytorch, Git, Docker, CUDA, Unity3D, Issac Sim, ROS2, NAS
+### [Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection](https://openreview.net/forum?id=NTkYSWnVjl)
 
-**Web Development**: 
-- JavaScript, TypeScript, React, Next.js, Node.js, Figma, three.js
+<code>NeurIPS 2024</code> <code>Adversarial Robustness</code> <code>Computer Vision</code>
+
+Dongsu Song, **Daehwa Ko**, Jay Hoon Jung  
+*Advances in Neural Information Processing Systems (NeurIPS 2024)*
+
+<details>
+<summary><strong>Additional Publications</strong></summary>
+
+### Shape Optimization of Airfoils Based on Reinforcement Learning
+
+**Daehwa Ko**, Jay Hoon Jung  
+*Korean Society for Aeronautical & Space Sciences Spring Conference, 2025*  
+**Outstanding Presentation Paper Award**
+
+[Project repository →](https://github.com/daehwa00/Design_Airfoil_with_RL)
+
+### Confidence-Independent Adversarial Attacks with Reinforcement Learning and Image Patching
+
+**Daehwa Ko**, JaeHyeon Kim, Jay Hoon Jung  
+*KICS Summer Conference, 2024*
+
+### VoiceKey: Real-Time Compression Encoding and Quantization for Voice Authentication Models on Edge Devices
+
+**Daehwa Ko**, Garam Jung, Jay Hoon Jung  
+*The 4th Korea Artificial Intelligence Conference*
+
+[Project repository →](https://github.com/daehwa00/VoiceKey)
+
+</details>
 
 ---
 
-## 🎓 **Education**
+## Selected Projects
 
-**Seoul Daesung High School (Graduated in 2019.02)**
+### [paper-workspace →](https://github.com/daehwa00/paper-workspace)
 
-**Korea Aerospace University (2020.03 ~ 2024.02, Bachelor’s Degree)**
-  - 💻 Department of Software & 🛠 Mechanical Engineering (Double Major)
+A self-hosted LaTeX research workspace with PDF preview, SyncTeX, collaboration presence, and optional AI-assisted revision proposals.
 
-**Korea Aerospace University (2024.03 ~ , Master's Studies)**
-  - 🤖 Department of Artificial Intelligence
+### [gpulse →](https://github.com/daehwa00/gpulse)
+
+A lightweight terminal-based NVIDIA GPU monitor designed for remote servers.
+
+### [Design_Airfoil_with_RL →](https://github.com/daehwa00/Design_Airfoil_with_RL)
+
+Reinforcement-learning-based airfoil and propeller shape optimization.
+
+### [VoiceKey →](https://github.com/daehwa00/VoiceKey)
+
+Compression, encoding, and quantization methods for efficient voice-authentication models on edge devices.
 
 ---
 
-## 🎮 **Gaming Life**
-**League of Legends:**
+## Experience
 
-Rank: Diamond 💎
+### GlowMe — CEO & Co-Founder
+
+*September 2024 – Present*
+
+*Building an applied generative-AI product from model development to production deployment.*
+
+- Leading the development of **GlowMe**, an AI-powered beauty and style transformation application.
+- Serving as CEO and lead AI developer.
+- Developing and operating the product across Android and iOS.
+- Building applied generative-AI features for personalized hairstyle, makeup, and style previews.
+- Received the Excellence Award at the SNU SNaaC Re:Pit Acceleration Program.
+- Recognized at Goyang IR Day for business potential, marketability, and technical innovation.
+
+[Website →](https://www.glowme.kr) · [Google Play →](https://play.google.com/store/apps/details?id=app.braveidiots.glowme) · [App Store →](https://apps.apple.com/kr/app/glowme-ai-styling/id6755821428)
+
+### QAI Lab — Researcher
+
+*December 2021 – Present*
+
+- Conducting research in machine learning, reinforcement learning, adversarial robustness, and computer vision.
+- Developed reinforcement-learning methods for autonomous navigation in colonoscopy procedures.
+- Constructed and optimized simulation environments for training and evaluating reinforcement-learning agents.
+- Led research activities for the AIER industry–academia project involving Korea Aerospace University, Korean Air, and Airbus.
+- Investigated aviation-AI robustness and model vulnerabilities using explainable-AI techniques.
+
+<details>
+<summary><strong>Additional Experience, Leadership, and Activities</strong></summary>
+
+### LG Discovery Lab Seoul — Youth AI Educator
+
+*March 2024 – September 2025*
+
+- Delivered hands-on AI education programs for young learners.
+- Introduced practical machine-learning concepts through interactive experiments and projects.
+
+### BRAVE — Representative
+
+*April 2023 – December 2023*
+
+- Led a nonprofit organization focused on socially beneficial AI applications.
+- Developed a domestic-violence prevention application in collaboration with Ilsan East Police Station.
+- Developed an AI-based speaker-verification system for domestic-violence prevention and response.
+- Participated in the Goyang City business-funding program.
+- Published the VoiceKey research project at the 4th Korea Artificial Intelligence Conference.
+
+### Deeperent — President
+
+*2023 – Present*
+
+- Lead the deep-learning club at Korea Aerospace University.
+- Organize machine-learning projects and technical study sessions.
+- Mentor new members and support collaborative research and development.
+- Initiated and managed multiple deep-learning projects across the club.
+
+### Deep Learning Bible — Author
+
+- Authored educational materials covering reinforcement learning, classification, object detection, and representation learning.
+- Developed explanations connecting theoretical concepts with practical implementations and code examples.
+- Collaborated with other contributors to improve the accuracy and accessibility of the material.
+
+[Reinforcement Learning →](https://wikidocs.net/202551) · [Classification →](https://wikidocs.net/195735v) · [Object Detection →](https://wikidocs.net/203719) · [Representation Learning →](https://wikidocs.net/book/9091)
+
+### Capstone Design Project — Ratio
+
+*August 2022 – December 2022*
+
+- Collaborated with Ratio on a computer-vision system for autonomous driving.
+- Developed vision-AI components for recognizing road environments and driving-related objects.
+
+### Industry–Academia Cooperation Project
+
+- Developed a web application integrating a counseling AI system.
+- Contributed to the project receiving second place in the associated industry–academia program.
+
+### Educational Content
+
+- Operate the YouTube channel [Daehwa's AI & Linear Algebra Deep Dive →](https://www.youtube.com/channel/UCyajG8EDAbtXdgvWQwurVqw).
+- Produce lectures on deep learning, linear algebra, and the mathematical foundations of artificial intelligence.
+
+</details>
 
 ---
 
-## 📫 **Get in Touch**
+## Selected Awards
 
-- 📧 [daehwa001210@gmail.com](mailto:daehwa001210@gmail.com)
+| Year | Recognition |
+|:---:|---|
+| 2025 | **Outstanding Presentation Paper Award**, Korean Society for Aeronautical & Space Sciences Spring Conference |
+| 2025 | **Excellence Award**, SNU SNaaC Re:Pit Acceleration Program |
+| 2025 | **Goyang IR Day Award**, recognized for business model, market potential, and technical innovation |
+| 2024 | **Grand Prize**, KAU AI Drone Racing |
+| 2024 | **Grand Award**, KAU Generative AI Business Hackathon |
+
+<details>
+<summary><strong>Undergraduate Awards and Projects</strong></summary>
+
+### Special Award — SW-Centered University Joint Hackathon, 2023
+
+- Served as team leader for the **Really You** project.
+- Led planning and backend development.
+- Extended a lightweight deepfake-detection concept to address deepfake voice generation.
+
+### Best Award — ICT Startup Makeathon, 2023
+
+- Developed a startup service based on lightweight deepfake detection.
+- Applied controlled image distortions to reduce the risk of images being reused for deepfake generation.
+
+### 1st Place — KAU Hackathon, 2023
+
+- Developed a deep-learning framework for real-time information validation and improved communication security.
+
+### Excellence Award — AI R&D Project, 2022
+
+- Developed an image-recognition system for autonomous driving.
+- Focused on Korean traffic signs and locally collected road-scene data.
+
+### Dean's Award — AI Industry–Academia Collaboration Project, 2022
+
+- Developed a serverless backend architecture.
+- Integrated KoBERT into an AI-powered counseling chatbot.
+
+### 3rd Place — KAU Hackathon, 2022
+
+- Developed a Unity-based system for generating synthetic images for machine-learning model training.
+
+</details>
+
+---
+
+## Education
+
+### Korea Aerospace University
+
+**M.S. Studies in Artificial Intelligence**  
+Department of Artificial Intelligence  
+March 2024 – Present
+
+**B.S. in Software and Mechanical Engineering**  
+Double Major  
+March 2020 – February 2024
+
+---
+
+## Contact
+
+- Email: [daehwa001210@kau.kr](mailto:daehwa001210@kau.kr)
+- GitHub: [github.com/daehwa00](https://github.com/daehwa00)
+- Google Scholar: [Daehwa Ko](https://scholar.google.com/citations?user=fVDQ8EAAAAAJ)
+- OpenReview: [Daehwa Ko](https://openreview.net/profile?id=~Daehwa_Ko1)
+
