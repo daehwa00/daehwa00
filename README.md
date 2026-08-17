@@ -2,7 +2,7 @@
   <h1>Daehwa Ko</h1>
   <p><strong>Researcher working across machine learning theory and practical AI systems</strong></p>
   <p>
-    M.S. Researcher in Artificial Intelligence<br>
+    Graduate Researcher in Artificial Intelligence<br>
     Korea Aerospace University
   </p>
   <p>
@@ -42,12 +42,14 @@
 
 ## Publications
 
-### [Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection](https://openreview.net/forum?id=NTkYSWnVjl)
+### [Amnesia as a Catalyst for Enhancing Black Box Pixel Attacks in Image Classification and Object Detection](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9e770fcdb456400325c11d58b3a04d08-Abstract-Conference.html)
 
 <code>NeurIPS 2024</code> <code>Adversarial Robustness</code> <code>Computer Vision</code>
 
 Dongsu Song, **Daehwa Ko**, Jay Hoon Jung  
 *Advances in Neural Information Processing Systems (NeurIPS 2024)*
+
+[Paper →](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9e770fcdb456400325c11d58b3a04d08-Abstract-Conference.html) · [Code →](https://github.com/KAU-QuantumAILab/RFPAR)
 
 ### Submitted Manuscripts
 
@@ -116,7 +118,7 @@ Dongsu Song, **Daehwa Ko**, Jay Hoon Jung
 - Developed explanations connecting theoretical concepts with practical implementations and code examples.
 - Collaborated with other contributors to improve the accuracy and accessibility of the material.
 
-[Reinforcement Learning →](https://wikidocs.net/202551) · [Classification →](https://wikidocs.net/195735v) · [Object Detection →](https://wikidocs.net/203719) · [Representation Learning →](https://wikidocs.net/book/9091)
+[Reinforcement Learning →](https://wikidocs.net/book/7888) · [Classification →](https://wikidocs.net/book/7887) · [Object Detection →](https://wikidocs.net/book/7721) · [Representation Learning →](https://wikidocs.net/book/9091)
 
 <details>
 <summary><strong>Additional Experience, Leadership, and Activities</strong></summary>
@@ -218,7 +220,7 @@ Dongsu Song, **Daehwa Ko**, Jay Hoon Jung
 
 ### Korea Aerospace University
 
-**M.S. Studies in Artificial Intelligence**  
+**M.S. in Artificial Intelligence**<br>
 Department of Artificial Intelligence  
 March 2024 – Present
 
