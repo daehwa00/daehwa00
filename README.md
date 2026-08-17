@@ -76,26 +76,6 @@ Dongsu Song, **Daehwa Ko**, Jay Hoon Jung
 
 ---
 
-## Selected Projects
-
-### [paper-workspace →](https://github.com/daehwa00/paper-workspace)
-
-A self-hosted LaTeX research workspace with PDF preview, SyncTeX, collaboration presence, and optional AI-assisted revision proposals.
-
-### [gpulse →](https://github.com/daehwa00/gpulse)
-
-A lightweight terminal-based NVIDIA GPU monitor designed for remote servers.
-
-### [Design_Airfoil_with_RL →](https://github.com/daehwa00/Design_Airfoil_with_RL)
-
-Reinforcement-learning-based airfoil and propeller shape optimization.
-
-### [VoiceKey →](https://github.com/daehwa00/VoiceKey)
-
-Compression, encoding, and quantization methods for efficient voice-authentication models on edge devices.
-
----
-
 ## Experience
 
 ### GlowMe — CEO & Co-Founder
@@ -247,4 +227,3 @@ March 2020 – February 2024
 - GitHub: [github.com/daehwa00](https://github.com/daehwa00)
 - Google Scholar: [Daehwa Ko](https://scholar.google.com/citations?user=fVDQ8EAAAAAJ)
 - OpenReview: [Daehwa Ko](https://openreview.net/profile?id=~Daehwa_Ko1)
-
